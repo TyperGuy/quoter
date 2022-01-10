@@ -1,9 +1,17 @@
 # QuoterApp ( Estudo)
 <p>A simple Quote Generator made with ReacJS using NextJS library, Clean Architecture and Typescript. In this Project I used a public rest API to get the Quotes. To complement the study I added function buttons, Next, Copy and Share on Twitter...</p>
 
-# User Interface made by me
+## User Interface made by me
 
 <img style="width:600px;" src="https://github.com/TyperGuy/quote-generator/blob/main/assets/ui.png">
+
+## Tecnologies and tools used 
+<div>
+  <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+</div>
+
 
 ## Getting Started
 
