@@ -12,7 +12,7 @@
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img style="width:50px;" src="https://www.pikpng.com/pngl/m/536-5362913_apify-logo-clipart.png">
+  <img style="width:70px;" src="https://avatars.githubusercontent.com/u/24586296?s=200&v=4">
 
 </div>
 
