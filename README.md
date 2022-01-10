@@ -11,6 +11,8 @@
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  
   
 </div>
 
