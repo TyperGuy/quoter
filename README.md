@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# quote-generator ( Estudo)
+<p>Um Gerador de Quotes simples feito com HTML, CSS e JS.Neste Projecto Consumi uma API rest pública para pegar as Quotes. Para complementar o estudo adiconei botões de funções, Next, Copy e Partilha no Twitter.</p>
+<img style="width:600px;" src="https://github.com/TyperGuy/quote-generator/blob/main/assets/ui.png">
 
 ## Getting Started
 
