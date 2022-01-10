@@ -8,7 +8,7 @@
 ## Used tecnologies and tools 
 <div>
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
-  <img style="width:10px;" src="">
+  <div style="width:10px;"/>
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
