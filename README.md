@@ -1,6 +1,5 @@
-<p align="center">
-   ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-</p>
+![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+
 
 
 # QuoterApp ( Estudo)
