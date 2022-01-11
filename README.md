@@ -1,24 +1,31 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+<p align="center">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+    <a href="#backers" alt="Backers on Open Collective">
+        <img src="https://img.shields.io/opencollective/backers/shields" /></a>
+    <a href="#sponsors" alt="Sponsors on Open Collective">
+        <img src="https://img.shields.io/opencollective/sponsors/shields" /></a>
+    <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+    <a href="https://circleci.com/gh/badges/shields/tree/master">
+        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
+    <a href="https://circleci.com/gh/badges/daily-tests">
+        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
+            alt="service-test status"></a>
+    <a href="https://coveralls.io/github/badges/shields">
+        <img src="https://img.shields.io/coveralls/github/badges/shields"
+            alt="coverage"></a>
+    <a href="https://lgtm.com/projects/g/badges/shields/alerts/">
+        <img src="https://img.shields.io/lgtm/alerts/g/badges/shields"
+            alt="Total alerts"/></a>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="chat on Discord"></a>
+    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
+        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+</p>
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-[![Contributors][https://camo.githubusercontent.com/6a58189bfdc0586c06288c336cc805272bf16b06ce1ba81f9d299e4ff46992fe/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765]][https://github.com/TyperGuy/quoter/stargazers]
 
 # QuoterApp ( Estudo)
 <p>A simple Quote Generator made with ReacJS using NextJS library, Clean Architecture and Typescript. In this Project I used a public rest API to get the Quotes. To complement the study I added function buttons, Next, Copy and Share on Twitter...</p>
