@@ -18,7 +18,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][https://github.com/TyperGuy/quoter/stargazers]hgggggg
+[![Contributors][https://camo.githubusercontent.com/6a58189bfdc0586c06288c336cc805272bf16b06ce1ba81f9d299e4ff46992fe/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6f74686e65696c647265772f426573742d524541444d452d54656d706c6174652e7376673f7374796c653d666f722d7468652d6261646765]][https://github.com/TyperGuy/quoter/stargazers]
 
 # QuoterApp ( Estudo)
 <p>A simple Quote Generator made with ReacJS using NextJS library, Clean Architecture and Typescript. In this Project I used a public rest API to get the Quotes. To complement the study I added function buttons, Next, Copy and Share on Twitter...</p>
