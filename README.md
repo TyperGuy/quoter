@@ -1,4 +1,4 @@
-![Contributors](https://github.com/TyperGuy/quoter/graphs/contributors)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/TyperGuy/quoter?style=for-the-badge)
 
 
 
