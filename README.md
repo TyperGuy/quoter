@@ -1,4 +1,4 @@
-![GitHub closed issues](https://img.shields.io/github/issues-closed/TyperGuy/quoter?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/TyperGuy/quoter?style=for-the-badge)
 
 
 
