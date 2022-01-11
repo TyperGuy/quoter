@@ -1,4 +1,4 @@
-![GitHub contributors](https://img.shields.io/github/contributors/TyperGuy/quoter)
+![GitHub contributors](https://img.shields.io/github/contributors/TyperGuy/quoter?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/TyperGuy/quoter?style=for-the-badge)
 
 
