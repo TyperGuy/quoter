@@ -1,4 +1,4 @@
-![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
+![Contributors](https://github.com/TyperGuy/quoter/graphs/contributors)
 
 
 
