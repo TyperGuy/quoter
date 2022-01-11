@@ -1,5 +1,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/TyperGuy/quoter?color=%2300&style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/TyperGuy/quoter?color=%23cc3&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/TyperGuy/quoter?color=FF3358&style=for-the-badge)
 
 
 
