@@ -5,7 +5,7 @@
 
 <img style="width:600px;" src="https://github.com/TyperGuy/quote-generator/blob/main/assets/ui.png">
 
-## Used tecnologies and tools 
+## Tecnologies and tools 
 <div>
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
   <img style="width:50px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
